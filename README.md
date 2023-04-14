@@ -1,6 +1,6 @@
 ## Plant Shop 
 Azure Microsoft Internship Project
-- Project Link: 
+- Project Link: https://thankful-sea-0c630b700.3.azurestaticapps.net/
 - Demo Video Link: 
 
 ## Features and Functionalities:-
