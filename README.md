@@ -18,13 +18,13 @@ The Main Idea of the Project is to build an sample prototype E-Commerce Website 
 - Azure Bot Services
 - Static Web Apps
 ## Home
-## About
+## Category
 ## Product Details
-## Reviews
+## Deal
 ## Contact
-## Azure Bot Services
-## Tech Stack 
+## Azure Health Bot
 
+## Tech Stack 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
