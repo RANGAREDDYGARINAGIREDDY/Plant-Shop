@@ -18,12 +18,18 @@ The Main Idea of the Project is to build an sample prototype E-Commerce Website 
 - Azure Health Bot 
 - Static Web Apps
 ## Home
+![1](https://user-images.githubusercontent.com/118525738/232116368-0d099bb3-e73e-4e11-afd6-a74fc50f40bf.jpg)
 ## Category
+![2](https://user-images.githubusercontent.com/118525738/232116396-d217738e-ba18-4c7a-8cd8-4e74d4e8418b.jpg)
 ## Product Details
+![3](https://user-images.githubusercontent.com/118525738/232116404-e36ca3bb-d7b4-450b-9b63-2c74f6be1ce8.jpg)
 ## Deal
+![4](https://user-images.githubusercontent.com/118525738/232116409-17b259df-5bd4-4dd1-bfe2-0c11643e7f51.jpg)
 ## Contact
+![5](https://user-images.githubusercontent.com/118525738/232116417-77db8b1d-6b97-431c-9e78-161eafd92b71.jpg)
 ## Azure Health Bot
-
+![6](https://user-images.githubusercontent.com/118525738/232116423-d5a074bd-9ce1-43dd-8d94-b19e71fed24b.jpg)
+![7](https://user-images.githubusercontent.com/118525738/232116431-2947cfa9-3f62-4a86-aac8-f9587c90a8c9.jpg)
 ## Tech Stack 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
