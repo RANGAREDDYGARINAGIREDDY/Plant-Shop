@@ -4,11 +4,11 @@ Azure Microsoft Internship Project
 - Demo Video Link: 
 
 ## Features and Functionalities:-
+- Interactive and responsive UI.
+- Has many graphical and visual innovative effects.
 - Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement.
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 ## Problem Statement
 An Plant shop wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges .Through this website the user can buy different varieties of plants from Online with low cost .To build a whole website we have chosen Azure Cloud Platform. Build a website that have: Home, About, Product Details, Product Category, Reviews, Contact Details along with Azure Bot Services deployed on Website for customers help.
